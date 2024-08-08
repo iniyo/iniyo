@@ -45,13 +45,9 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iniyo&layout=donut-vertical" alt="My Most Languages">
-</div>
-<br>
-
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=iniyo&show_icons=true&theme=tokyonight" alt="iniyo's GitHub stats" />
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iniyo&layout=donut-vertical" alt="My Most Languages" style="max-width: 45%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=iniyo&show_icons=true&theme=tokyonight" alt="iniyo's GitHub stats" style="max-width: 45%;">
 </div>
 
 ## 📊 Weekly development breakdown
