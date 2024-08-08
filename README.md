@@ -45,11 +45,9 @@
 
 <br>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div style="margin-right: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iniyo&layout=donut-vertical" alt="My Most Languages">
-  </div>
-  <div>
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iniyo&layout=donut-vertical" alt="My Most Languages" style="margin-right: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=iniyo&show_icons=true&theme=tokyonight" alt="iniyo's GitHub stats">
   </div>
 </div>
