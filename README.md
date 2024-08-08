@@ -100,25 +100,6 @@ Saturday                 4 commits           ░░░░░░░░░░░�
 Sunday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -128,12 +109,4 @@ C#                       3 repos             █████░░░░░░�
 Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/iniyo/iniyo/main/assets/bar_graph.png)
-
-
- Last Updated on 08/08/2024 01:33:36 UTC
 <!--END_SECTION:waka-->
