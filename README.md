@@ -20,7 +20,6 @@
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>&nbsp
-  <img src="https://github-readme-stats.vercel.app/api?username=iniyo&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
 </div>
 
 <br>
@@ -55,6 +54,10 @@
     <img
       src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
+</div>
+
+<div>
+   <img src="https://github-readme-stats.vercel.app/api?username=iniyo&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
 </div>
 
 ## 📊 Weekly development breakdown
