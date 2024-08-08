@@ -45,12 +45,10 @@
 
 <br>
 
-<div align="center">
-  <div style="display: flex; justify-content: center; align-items: center;">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iniyo&layout=donut-vertical" alt="My Most Languages" style="margin-right: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=iniyo&show_icons=true&theme=tokyonight" alt="iniyo's GitHub stats">
-  </div>
-</div>
+</p>
 
 ## 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
