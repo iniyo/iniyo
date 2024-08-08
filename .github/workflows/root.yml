@@ -25,5 +25,4 @@ jobs:
           SHOW_PROJECTS: "True"
           SHOW_EDITORS: "True"
           SHOW_LANGUAGE: "True"
-          SHOW_LINES_OF_CODE: "False"
           SHOW_PROFILE_VIEWS: "True"
