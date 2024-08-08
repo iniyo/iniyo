@@ -1,12 +1,13 @@
 ## Hi there 👋
 
 <!--타이틀 부분-->
-![waving](https://capsule-render.vercel.app/api?type=waving&text=Hello%20World!&fontColor=ffffff&color=auto&height=200)
-
+<div align="center">
+  ![waving](https://capsule-render.vercel.app/api?type=waving&text=Welocome%20iniyo!&fontColor=ffffff&color=auto&height=200)
+</div>
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
