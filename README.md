@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--타이틀 부분-->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&text=Welcome%20iniyo!&fontColor=ffffff&color=0:0D8ABC,100:0D8ABC&height=200" alt="waving">
