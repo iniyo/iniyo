@@ -46,12 +46,12 @@
 <br>
 
 <div align="center">
-  <table style="border: none;">
-    <tr style="border: none;">
-      <td style="border: none; vertical-align: middle;">
+  <table border="0" style="border-collapse: collapse;">
+    <tr>
+      <td style="vertical-align: middle; border: none;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iniyo&layout=donut-vertical" alt="My Most Languages">
       </td>
-      <td style="border: none; vertical-align: middle;">
+      <td style="vertical-align: middle; border: none;">
         <img src="https://github-readme-stats.vercel.app/api?username=iniyo&show_icons=true&theme=tokyonight" alt="iniyo's GitHub stats">
       </td>
     </tr>
