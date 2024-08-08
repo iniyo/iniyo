@@ -46,7 +46,7 @@
 <br>
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iniyo&hide_progress=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iniyo&hide_progress=true&layout=compact" alt="My Most Languages">
 </div>
 
 <br>
