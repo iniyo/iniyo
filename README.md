@@ -39,15 +39,19 @@
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
   <a href="mailto:inizle35@gmail.com">
-    <img
-      src="https://img.shields.io/badge/inizle35@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/inizle35@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iniyo&hide_progress=true" />
+</div>
+
+<br>
+
+<div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=iniyo&show_icons=true&theme=tokyonight" alt="iniyo's GitHub stats" />
 </div>
 
