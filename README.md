@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 <!--타이틀 부분-->
- ![waving](https://capsule-render.vercel.app/api?type=waving&text=Welocome%20iniyo!&fontColor=ffffff&color=auto&height=200)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=Welcome%20iniyo!&fontColor=ffffff&color=0:0D8ABC,100:0D8ABC&height=200" alt="waving">
+</div>
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
