@@ -20,7 +20,7 @@
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>&nbsp
- 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iniyo)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <br>
