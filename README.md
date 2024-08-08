@@ -58,4 +58,6 @@
   </a>
 </div>
 
-![GitHub Activity](path_to_your_image.png)
+## 📊 Weekly development breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
